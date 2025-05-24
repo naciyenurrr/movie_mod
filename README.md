@@ -11,5 +11,5 @@ Model karşılaştırma sonuçaları ise boxplot ile görselleştirildi.
 # Sonuç ve Gelecek çalışmalar
 web tabanlı arayüz geliştirilemsi ve yayınlanmsı ile kullanıcının o anki istediği moodu üzerinden ona film önerileri yapabiliriz. Bu sayede kullanıcı dostu bir uygulama gerçekleştirilmiş olur.
 # Linkler
-
+https://www.kaggle.com/code/naciyenur/notebookd221290481
 
